@@ -23,11 +23,11 @@ The pipeline follows a standard ETL (Extract, Transform, Load) workflow:
 Infrastructure: Architected for integration with SQL (PostgreSQL/MySQL) or Google BigQuery.
 
 ## 📊 Key Features
-Massive Data Ingestion: Capable of handling 6,000+ unique records.
+**Massive Data Ingestion:** Capable of handling 6,000+ unique records.
 
-Automated Data Cleaning: Scripts to handle common web scraping artifacts and inconsistent data formatting.
+**Automated Data Cleaning:** Scripts to handle common web scraping artifacts and inconsistent data formatting.
 
-Scalable Design: The modular nature of the notebook allows for easy updates to the scraping logic or target database.
+**Scalable Design:** The modular nature of the notebook allows for easy updates to the scraping logic or target database.
 
 ## 📂 Project Structure
 Plaintext
